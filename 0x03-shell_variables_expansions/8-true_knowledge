@@ -1,0 +1,2 @@
+#!/bin/bash
+scho ((128 + $TRUEKNOWLEDGE))
